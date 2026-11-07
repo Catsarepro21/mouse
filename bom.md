@@ -21,12 +21,12 @@
 | 1 | 70 x 100 mm PTFE sheet, nominal 0.6 mm; cut front and rear skates | [Link](https://www.aliexpress.us/item/3256805102398499.html) | $2.95 |
 | 1 | Thin foam battery retention pad | — | $2.00 |
 | 1 | M2 x 4 mm Phillips pan/round-head self-tapping screws; pack of 100 | [Link](https://www.aliexpress.us/item/3256802119350443.html) | $1.31 |
-| 1 | Base; ASA preferred if available, otherwise opaque PETG (printed; material ) | [Link](https://github.com/Catsarepro21/mouse/blob/main/production/print/Base.stl) | $0.66 |
-| 1 | Top cover; ASA preferred if available, otherwise opaque PETG (printed; material ) | [Link](https://github.com/Catsarepro21/mouse/blob/main/production/print/Top%20cover.stl) | $0.46 |
-| 1 | Battery tray; PETG (printed; material ) | [Link](https://github.com/Catsarepro21/mouse/blob/main/production/print/Battery%20tray.stl) | $0.08 |
-| 1 | Scroll wheel; PETG; translucent if wheel lighting is desired (printed; material ) | [Link](https://github.com/Catsarepro21/mouse/blob/main/production/print/Scroll%20wheel.stl) | $0.08 |
-| 1 | Left RGB diffuser; Natural/translucent PETG (printed; material ) | [Link](https://github.com/Catsarepro21/mouse/blob/main/production/print/Left%20RGB%20diffuser.stl) | $0.01 |
-| 1 | Right RGB diffuser; Natural/translucent PETG (printed; material ) | [Link](https://github.com/Catsarepro21/mouse/blob/main/production/print/Right%20RGB%20diffuser.stl) | $0.01 |
+| 1 | Base; ASA preferred if available, otherwise opaque PETG (printed material) | [Link](https://github.com/Catsarepro21/mouse/blob/main/production/print/Base.stl) | $0.66 |
+| 1 | Top cover; ASA preferred if available, otherwise opaque PETG (printed material) | [Link](https://github.com/Catsarepro21/mouse/blob/main/production/print/Top%20cover.stl) | $0.46 |
+| 1 | Battery tray; PETG (printed material) | [Link](https://github.com/Catsarepro21/mouse/blob/main/production/print/Battery%20tray.stl) | $0.08 |
+| 1 | Scroll wheel; PETG; translucent if wheel lighting is desired (printed material) | [Link](https://github.com/Catsarepro21/mouse/blob/main/production/print/Scroll%20wheel.stl) | $0.08 |
+| 1 | Left RGB diffuser; Natural/translucent PETG (printed material) | [Link](https://github.com/Catsarepro21/mouse/blob/main/production/print/Left%20RGB%20diffuser.stl) | $0.01 |
+| 1 | Right RGB diffuser; Natural/translucent PETG (printed material) | [Link](https://github.com/Catsarepro21/mouse/blob/main/production/print/Right%20RGB%20diffuser.stl) | $0.01 |
 | 1 | AliExpress checkout additional charges | — | $2.34 |
 | 1 | AliExpress checkout discount | — | -$0.31 |
 | 1 | AliExpress shipping, current eligible order | — | $0.00 |
