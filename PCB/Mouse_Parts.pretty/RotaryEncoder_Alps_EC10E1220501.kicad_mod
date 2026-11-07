@@ -1,0 +1,139 @@
+(footprint "RotaryEncoder_Alps_EC10E1220501"
+	(version 20260206)
+	(generator "pcbnew")
+	(generator_version "10.0")
+	(layer "F.Cu")
+	(descr "Alps 9 mm wheel encoder, 24 detents")
+	(tags "https://tech.alpsalpine.com/e/products/detail/EC10E1220501/")
+	(property "Reference" "SW8"
+		(at 0 5 0)
+		(layer "F.SilkS")
+		(uuid "3cc89b5b-c17c-415f-bff5-0532a111c688")
+		(effects
+			(font
+				(size 0.8 0.8)
+				(thickness 0.12)
+			)
+		)
+	)
+	(property "Value" "ScrollWheel"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "123e9233-472d-4f65-8e4e-632c482a8024")
+		(effects
+			(font
+				(size 0.65 0.65)
+				(thickness 0.1)
+			)
+		)
+	)
+	(property "Datasheet" "https://tech.alpsalpine.com/e/products/detail/EC10E1220501/"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "27fda155-2fc7-4486-ab59-596677a20640")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Description" "Alps EC10E1220501 wheel encoder, 9 mm"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "af3259d1-997c-4a91-87a7-07783fe52b1d")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(attr through_hole)
+	(duplicate_pad_numbers_are_jumpers no)
+	(fp_line
+		(start -4.9 -3.7)
+		(end 4.9 -3.7)
+		(stroke
+			(width 0.12)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "f5b8bdff-9340-48d1-b695-ed9e87123bcf")
+	)
+	(fp_rect
+		(start -6 -4.05)
+		(end 6 2.75)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(fill no)
+		(layer "F.CrtYd")
+		(uuid "ddc5667f-3ce4-42ed-8a5f-0f47a8ff7895")
+	)
+	(fp_rect
+		(start -4.9 -3.7)
+		(end 4.9 2.4)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(fill no)
+		(layer "F.Fab")
+		(uuid "9d325d12-4ac8-4f70-8dbd-7d31cc1a0104")
+	)
+	(pad "" thru_hole oval
+		(at -4.5 -2)
+		(size 2.4 2.7)
+		(drill oval 1.8 2.1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "fbfdf6f9-93bc-4bd9-9050-77cc7b66c50a")
+	)
+	(pad "" thru_hole oval
+		(at 4.5 -2)
+		(size 2.4 2.7)
+		(drill oval 1.8 2.1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "4828d4e8-9a7e-4244-98b7-be0c96894c47")
+	)
+	(pad "A" thru_hole circle
+		(at 2.5 0)
+		(size 1.7 1.7)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "fe2d37aa-57f2-4eda-8eac-db7b1e5b24ff")
+	)
+	(pad "B" thru_hole circle
+		(at 0 0)
+		(size 1.7 1.7)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "fc525ac2-c36b-4cd9-95a3-49f6a6f4e585")
+	)
+	(pad "C" thru_hole circle
+		(at -2.5 0)
+		(size 1.7 1.7)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "530b7ad1-7218-4c47-9011-d77bb499c20e")
+	)
+	(embedded_fonts no)
+	(model "${KIPRJMOD}/Mouse_Parts.3dshapes/EC10E1220501.stp"
+		(offset
+			(xyz 0 -0.5 9.5)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 -0 -180)
+		)
+	)
+)

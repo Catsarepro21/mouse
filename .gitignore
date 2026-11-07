@@ -1,0 +1,8 @@
+.idea/
+*.iml
+.build/
+.backup/
+*.log
+*.kicad_prl
+*.lck
+*-backups/

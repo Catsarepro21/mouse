@@ -1,0 +1,155 @@
+(footprint "TI_DDC0005A"
+	(version 20260206)
+	(generator "pcbnew")
+	(generator_version "10.0")
+	(layer "F.Cu")
+	(descr "TI SOT-23-THIN DDC0005A, manufacturer land pattern")
+	(tags "https://www.ti.com/lit/ds/symlink/tlv700.pdf")
+	(property "Reference" "U3"
+		(at 0 -2.2 0)
+		(layer "F.SilkS")
+		(uuid "bd386a8f-30da-46dc-9eec-004f4c122eed")
+		(effects
+			(font
+				(size 0.8 0.8)
+				(thickness 0.12)
+			)
+		)
+	)
+	(property "Value" "TLV70019DDCR"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "b81912f3-a9bc-4ea3-a98c-b536c2b69add")
+		(effects
+			(font
+				(size 0.65 0.65)
+				(thickness 0.1)
+			)
+		)
+	)
+	(property "Datasheet" "https://www.ti.com/lit/ds/symlink/tlv700.pdf"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "7c0ca78b-f442-4cd5-9db5-2c8b36524929")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Description" "1.9 V 200 mA LDO, SOT-23-THIN"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "1bcb019e-4188-4c4b-8954-a37b93a7fa7f")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(attr smd)
+	(duplicate_pad_numbers_are_jumpers no)
+	(fp_line
+		(start -0.75 -1.55)
+		(end 0.75 -1.55)
+		(stroke
+			(width 0.12)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "523f3580-ec1e-4f53-9acd-ad86561fed5f")
+	)
+	(fp_line
+		(start -0.75 1.55)
+		(end 0.75 1.55)
+		(stroke
+			(width 0.12)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "695978ec-08c6-4d42-8aa4-5b6a8fe373fe")
+	)
+	(fp_circle
+		(center -1.6 -1.65)
+		(end -1.5 -1.65)
+		(stroke
+			(width 0.12)
+			(type default)
+		)
+		(fill yes)
+		(layer "F.SilkS")
+		(uuid "74c76fdf-27ef-47ee-b55f-0af4b0f981a3")
+	)
+	(fp_rect
+		(start -2.15 -1.75)
+		(end 2.15 1.75)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(fill no)
+		(layer "F.CrtYd")
+		(uuid "cb7c8cab-9cd6-4d72-b9e6-3880565da3c7")
+	)
+	(fp_rect
+		(start -0.8 -1.45)
+		(end 0.8 1.45)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(fill no)
+		(layer "F.Fab")
+		(uuid "54d2cf57-8265-4153-9085-386969bee969")
+	)
+	(pad "1" smd roundrect
+		(at -1.35 -0.95)
+		(size 1.1 0.6)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.0833)
+		(uuid "8b5bcb50-a7a9-4115-8d97-ce48f9c12c8e")
+	)
+	(pad "2" smd roundrect
+		(at -1.35 0)
+		(size 1.1 0.6)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.0833)
+		(uuid "bbd1c81a-4f84-4583-ac8d-31b5226f5f14")
+	)
+	(pad "3" smd roundrect
+		(at -1.35 0.95)
+		(size 1.1 0.6)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.0833)
+		(uuid "8bca3a71-e9ff-4ef6-aa1e-256e88d68a43")
+	)
+	(pad "4" smd roundrect
+		(at 1.35 0.95)
+		(size 1.1 0.6)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.0833)
+		(uuid "9a73f49b-e08a-48b1-9f69-6549d8e1822d")
+	)
+	(pad "5" smd roundrect
+		(at 1.35 -0.95)
+		(size 1.1 0.6)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.0833)
+		(uuid "22b0cb74-566b-4c0d-85f0-5d62481a107d")
+	)
+	(embedded_fonts no)
+	(model "${KIPRJMOD}/Mouse_Parts.3dshapes/TLV70019DDCR.stp"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)

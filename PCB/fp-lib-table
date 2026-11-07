@@ -1,0 +1,6 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Mouse_Parts") (type "KiCad") (uri "${KIPRJMOD}/Mouse_Parts.pretty") (options "") (descr ""))
+  (lib (name "XIAO_ESP32S3_pretty") (type "KiCad") (uri "${KIPRJMOD}/XIAO_ESP32S3_pretty.pretty") (options "") (descr ""))
+  (lib (name "pmw3360_pcb") (type "KiCad") (uri "${KIPRJMOD}/pmw3360_pcb.pretty") (options "") (descr ""))
+)
